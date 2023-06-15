@@ -1,6 +1,10 @@
 Bài tập lớn Nhóm 8 mon c#
 Ngôn ngữ : Asp.net mvc, sql server.
-
+Thành viên:
+Trần Đăng Quyết
+Nguyễn Thành Toàn
+Nguyễn Tuấn ANh
+Nguyễn Văn Đang
 
 
 
